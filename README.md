@@ -1,44 +1,33 @@
-# 📘 Assignment: Customize Your GitHub Copilot Experience
+<div align="center">
 
-## 🎯 Objective
+# 🎉 Congratulations Jonatan-P! 🎉
 
-Practice documenting and organizing an assignment using the repository assignment template. This exercise helps you build a clear student-facing task plan and align repository content with the project standards.
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-## 📝 Tasks
+### 🌟 You've successfully completed the exercise! 🌟
 
-### 🛠️ Review the repository assignment template
+## 🚀 Share Your Success!
 
-#### Description
-Open `templates/assignment-template.md` and compare it with this file. Verify the structure, headings, and formatting used for assignment documentation.
+**Show off your new skills and inspire others!**
 
-#### Requirements
-Completed work should:
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Customize%20Your%20GitHub%20Copilot%20Experience%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FJonatan-P%2Fskills-customize-your-github-copilot-experience%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Customize%20Your%20GitHub%20Copilot%20Experience%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FJonatan-P%2Fskills-customize-your-github-copilot-experience%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Customize%20Your%20GitHub%20Copilot%20Experience%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FJonatan-P%2Fskills-customize-your-github-copilot-experience%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-- Confirm the assignment uses the same heading hierarchy as the template.
-- Identify where objective, task descriptions, and requirements belong.
-- Note one example of a repository standard or formatting pattern.
+### 🎯 What's Next?
 
-### 🛠️ Update assignment documentation
+**Keep the momentum going!**
 
-#### Description
-Convert this file into a template-based assignment that is easy for students to read and complete.
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Jonatan-P/skills-customize-your-github-copilot-experience/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
 
-#### Requirements
-Completed work should:
+*There's no better way to learn than building things!* 🚀
 
-- Include a clear assignment title and objective.
-- Define at least two task sections with descriptions and requirements.
-- Keep the language student-friendly and aligned with repository style.
-
-### 🛠️ Plan a Copilot customization improvement
-
-#### Description
-Write a short plan describing how you would customize GitHub Copilot prompts or workflow for this repository.
-
-#### Requirements
-Completed work should:
-
-- Describe at least two customization ideas (prompt templates, editor settings, or workflow habits).
-- Explain how those customizations improve productivity or learning.
-- Keep the plan concise and actionable.
+</div>
 
