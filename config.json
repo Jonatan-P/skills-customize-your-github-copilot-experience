@@ -65,6 +65,13 @@
       "description": "Create a RESTful API using FastAPI with endpoints, request validation, and error handling.",
       "path": "assignments/fastapi-rest-api",
       "dueDate": "2026-07-08"
+    },
+    {
+      "id": "sqlite-persistence",
+      "title": "Python Persistence with SQLite",
+      "description": "Store and manage data using SQLite so Python programs keep information between runs.",
+      "path": "assignments/sqlite-persistence",
+      "dueDate": "2026-07-22"
     }
   ]
 }
